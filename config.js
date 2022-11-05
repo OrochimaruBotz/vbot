@@ -11,15 +11,15 @@ databot = {}
 // KALO SAMA DENGAN ORANG LAIN
 // KEMUNGKINAN BOTMU TERHACK
 
-databot.idbot = "ISI IDBOT USAHAKAN BEDA"
+databot.idbot = "skurma849##"
 // conoth: "ljkfnh837##"
 
 databot.namabot = "Brainxiex Virtual"
-databot.owner = ['628979059392']
-databot.premium = ['628979059392']
+databot.owner = ['688804947282']
+databot.premium = ['6288804947282']
 databot.packname = 'Wa Botz'
 databot.author = 'WhatsApp Bot'
-databot.sessionName = 'sesi'
+databot.sessionName = 'sesions'
 databot.prefa = ['','!','.','🐦','🐤','🗿']
 databot.sp = '⭔'
 databot.mess = {
